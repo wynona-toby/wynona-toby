@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Wynona Toby  <img src="https://komarev.com/ghpvc/?username=wynona-toby&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-🎨 UI/UX Designer | 🧠 Data Science Enthusiast | 🐍 Python Backend Developer (Django) | ✍️ Passionate Creative Writer 
+🎨 UI/UX Designer | 🧠 Data Science Enthusiast | 🐍 Python Developer | ✍️ Passionate Creative Writer 
 
 ---
 
