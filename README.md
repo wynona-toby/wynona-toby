@@ -6,9 +6,8 @@
 
 ### 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wynona-toby&theme=omni&hide_border=false&include_all_commits=true&count_private=false" height="160px" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=wynona-toby&theme=omni&hide_border=false" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wynona-toby&theme=omni&hide_border=false&layout=compact" height="160px" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=wynona-toby&theme=dark&hide_border=false" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wynona-toby&theme=dark&hide_border=false&layout=compact" height="200px" />
 </div>
 
 ---
